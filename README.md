@@ -16,4 +16,4 @@
 ## MLB
 linescore.xyz
 
-This is currently not working due to Supabase continueling pausing my application, which then shuts down the whole database. (Considering options to go the free way)
+This is currently not working due to Supabase continuously pausing my application, which then shuts down the whole database. (Considering options to go the free way)
