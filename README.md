@@ -14,6 +14,5 @@
 
 
 ## MLB
-linescore.xyz
+linescore.org
 
-This is currently not working due to Supabase continuously pausing my application, which then shuts down the whole database. (Considering options to go the free way)
